@@ -1,0 +1,26 @@
+{
+  "id": "13de2c2b-c40d-461e-9bba-f4f868e7d52c",
+  "name": "MOKA_Pricing and Discount",
+  "publisher": "Default publisher",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://MOKA_PricingandDiscount.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
